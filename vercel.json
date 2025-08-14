@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/stream.js": { "runtime": "edge" },
+    "api/ping.js":   { "runtime": "edge" }
+  }
+}
