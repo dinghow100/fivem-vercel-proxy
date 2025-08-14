@@ -1,7 +1,0 @@
-{
-  "version": 2,
-  "functions": {
-    "api/ping.js":   { "runtime": "edge" },
-    "api/stream.js": { "runtime": "edge" }
-  }
-}
